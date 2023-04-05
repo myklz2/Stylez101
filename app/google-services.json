@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394516866180",
+    "project_id": "stylez-001",
+    "storage_bucket": "stylez-001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394516866180:android:92a30e5b583aec0669ced1",
+        "android_client_info": {
+          "package_name": "com.example.stylez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394516866180-3ijgqphtsm6ql2avqkpmmulkdbt4t7lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9_JBSn92ADt9FnBgnUCLhID9FePlttk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394516866180-3ijgqphtsm6ql2avqkpmmulkdbt4t7lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
